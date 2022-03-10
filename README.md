@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PranjayVats
-- 👀 I’m interested in Competitiev Coding, Web development and Open Source.
+- 👀 I’m interested in Competitive Coding, Web Development and Open Source.
 - 🌱 I’m currently learning about uses of various APIs in Web development and I am currently exploring more about React JS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
