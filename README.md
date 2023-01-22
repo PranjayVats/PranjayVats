@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PranjayVats
-- 👀 I’m interested in Competitive Coding, Web Development and Open Source.
-- 🌱 I’m currently learning about uses of various APIs in Web development and I am currently exploring more about React JS.
+- 👀 I’m interested in Web Development and mainly in Frontend and Fullstack Development.
+- 🌱 I’m currently exploring more about Web development and I am currently looking for internship opportunity as Frontend (React) Developer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
